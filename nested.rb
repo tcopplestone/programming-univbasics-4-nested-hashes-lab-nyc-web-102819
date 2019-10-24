@@ -17,7 +17,7 @@ def hopper
      }
      
 my_hash = [:programmer_hash][:grace_hopper]
-puts my_hash
+return my_hash
 end
 
 def alan_kay_is_known_for
